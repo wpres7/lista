@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/1XNfzj", TV Gazeta (SP)
+http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
 #EXTINF:0,IPTV Brasil
 https://3.bp.blogspot.com/-qbWTDT1k_dY/WXBpY4-KqlI/AAAAAAAAB1A/7DZCG4i2fJgkYSk5Yksf-9lvD4Pi_PIpACLcBGAs/s1600/iptv-brasil-playlist.jpg
 #EXTINF:0,TV ONLINE NOSSA CIDADE 
