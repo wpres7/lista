@@ -39,13 +39,13 @@ https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_360_av-p.m3u8
 https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/espn.smil/chunklist_b1101581_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://anezabfluc.tk/brazil/files/2018/07/RS3682_ESPN_EXTRA_Brasil_CLR_Pos-scr.jpg",ESPN Extra
 https://playplusespn-lh.akamaihd.net:443/i/pp_espnext@374460/index_360_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", CULTURA
+#EXTINF:-1 tvg-logo="http://127.0.0.1/",CULTURA
 https://cdn.jmvstream.com/w/LVW-8403/LVW8403_bIBvekk9QA/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", REDE VIDA
+#EXTINF:-1 tvg-logo="http://127.0.0.1/",REDE VIDA
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", TV BRASIL 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/",TV BRASIL 2
 https://22722d.ha.azioncdn.net/hls/STsEBCLIVE_1080/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", RECORD NEWS HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/",RECORD NEWS HD
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_360_av-p.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JPTV", TV Gazeta
+#EXTINF:-1 tvg-logo="http://127.0.0.1/",TV Gazeta
 https://vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist-360p.m3u8
