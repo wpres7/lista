@@ -39,13 +39,13 @@ https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_360_av-p.m3u8
 https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/espn.smil/chunklist_b1101581_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://anezabfluc.tk/brazil/files/2018/07/RS3682_ESPN_EXTRA_Brasil_CLR_Pos-scr.jpg",ESPN Extra
 https://playplusespn-lh.akamaihd.net:443/i/pp_espnext@374460/index_360_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="http://127.0.0.1/",CULTURA
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo.png",Cultura
 https://cdn.jmvstream.com/w/LVW-8403/LVW8403_bIBvekk9QA/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/",REDE VIDA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png",Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/",TV BRASIL 2
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/31032afb0ddcda240d10e0de80793302.png",TV Brasil 2
 https://22722d.ha.azioncdn.net/hls/STsEBCLIVE_1080/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/",RECORD NEWS HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_360_av-p.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/",TV Gazeta
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/tv-gazeta-logo-1-1536x569.png",TV Gazeta
 https://vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist-360p.m3u8
