@@ -51,3 +51,5 @@ https://22722d.ha.azioncdn.net/hls/STsEBCLIVE_1080/index.m3u8
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_360_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/tv-gazeta-logo-1-1536x569.png",TV Gazeta
 https://vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist-360p.m3u8
+#EXTINF:-1 tvg-logo="https://scontent.fpet3-1.fna.fbcdn.net/v/t1.0-9/96265806_2375527679412955_5585150174361026560_n.jpg?_nc_cat=109&_nc_sid=85a577&_nc_ohc=krmy63AW3OYAX9cDCvo&_nc_ht=scontent.fpet3-1.fna&oh=572f8b3b421c4e946152c2593b8f2c76&oe=5EEA0A00",Latinasat / Web TV
+https://livefocamundo.com:8081/8470/index.m3u8
