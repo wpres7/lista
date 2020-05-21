@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/BandNews_logo_2019.png",BandNews
+http://stream.ec.cx/hls1/bandnews.m3u8?expires=1590048732&token=7bf65628e197188b1e0f5184dee6a671
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/1200px-Canal_Viva_2018_wordmark.svg.png",Viva
+http://stream.ec.cx/hls1/viva.m3u8?expires=1590052676&token=ddccb9bf064222bffd9db9d19799ff7c
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",Globo SP
+http://stream.ec.cx/hls1/bobosp.m3u8?expires=1590052753&token=b738cdaa4e548f2581b01435f565f5e5
+#EXTINF:-1 tvg-logo="https://scontent.fpet3-1.fna.fbcdn.net/v/t1.0-9/96265806_2375527679412955_5585150174361026560_n.jpg?_nc_cat=109&_nc_sid=85a577&_nc_ohc=krmy63AW3OYAX9cDCvo&_nc_ht=scontent.fpet3-1.fna&oh=572f8b3b421c4e946152c2593b8f2c76&oe=5EEA0A00",Latinasat / Web TV
+https://livefocamundo.com:8081/8470/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/600px-Logotipo_do_SBT.svg.png",SBT
 https://5a1c76baf08c0.streamlock.net/z343-live/z343/chunklist_w860278779.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png",RedeTV!
@@ -39,7 +47,7 @@ https://playplusespn-lh.akamaihd.net:443/i/pp_espnbra@374460/index_360_av-p.m3u8
 https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_360_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png",ESPN
 https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/espn.smil/chunklist_b1101581_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://anezabfluc.tk/brazil/files/2018/07/RS3682_ESPN_EXTRA_Brasil_CLR_Pos-scr.jpg",ESPN Extra
+#EXTINF:-1 tvg-logo="https://espnpressroom.com/brazil/files/2018/07/RS3682_ESPN_EXTRA_Brasil_CLR_Pos-scr.jpg",ESPN Extra
 https://playplusespn-lh.akamaihd.net:443/i/pp_espnext@374460/index_360_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo.png",Cultura
 https://cdn.jmvstream.com/w/LVW-8403/LVW8403_bIBvekk9QA/chunklist.m3u8
@@ -51,5 +59,3 @@ https://22722d.ha.azioncdn.net/hls/STsEBCLIVE_1080/index.m3u8
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_360_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/tv-gazeta-logo-1-1536x569.png",TV Gazeta
 https://vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist-360p.m3u8
-#EXTINF:-1 tvg-logo="https://scontent.fpet3-1.fna.fbcdn.net/v/t1.0-9/96265806_2375527679412955_5585150174361026560_n.jpg?_nc_cat=109&_nc_sid=85a577&_nc_ohc=krmy63AW3OYAX9cDCvo&_nc_ht=scontent.fpet3-1.fna&oh=572f8b3b421c4e946152c2593b8f2c76&oe=5EEA0A00",Latinasat / Web TV
-https://livefocamundo.com:8081/8470/index.m3u8
