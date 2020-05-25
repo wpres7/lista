@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1,12- REDE BRASIL
-http://rbc.directradios.com:1935/rbc/rbc_720p/live.m3u8?FORMIGAtv
-
-#EXTINF:-1,18- RECORD ES-VITORIA
-http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8?FORMIGAtv
-
 #EXTINF:-1,1HD Music
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
 
@@ -29,7 +23,7 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1,BandNews
 http://a.srvbr.me:8880/138906/138906/890
 
-#EXTINF:-1,BH FM iptv sem travas TESTE GRATIS (46)99141-9357
+#EXTINF:-1,BH FM
 https://medias.sgr.globo.com/hls/aBHFM/aBHFM.m3u8
 
 #EXTINF:-1,Bloomberg TV
@@ -41,23 +35,23 @@ https://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8
 #EXTINF:-1,Brasil Oeste (MT)
 https://5d2c98775bafe.streamlock.net/8104/8104/playlist.m3u8
 
-#EXTINF:-1,CanÃ§Ã£o Nova
-http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/master.m3u8
-
 #EXTINF:-1,Canal 29 - WebTV
 https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8
 
 #EXTINF:-1,Canal Futura
 https://5a1c76baf08c0.streamlock.net/z01-live/stream/chunklist.m3u8
 
-#EXTINF:-1,Canal SÃ£o Paulo
+#EXTINF:-1,Canal Sao Paulo
 http://stream02.msolutionbrasil.com.br:1935/canaldesaopaulo/live/playlist.m3u8
+
+#EXTINF:-1,Cancao Nova
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/master.m3u8
 
 #EXTINF:-1,CANCAO NOVA
 http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
 
-#EXTINF:-1,Capital TiVï¿½ SD
-http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8?ISAQUE
+#EXTINF:-1,Capital TiVu SD
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
 
 #EXTINF:-1,Capital TV
 https://capital-tv-lh.akamaized.net/i/CapitalTv_1@183098/master.m3u8
@@ -77,7 +71,7 @@ https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e
 #EXTINF:-1,CCTV
 https://cctvcnchwh5ca.v.cdn20.com/live/cctv1_2/index.m3u8?contentid=2820180516001
 
-#EXTINF:-1,CCTV NotÃ­cias
+#EXTINF:-1,CCTV Noticias
 https://cctvcnchwh5ca.v.cdn20.com/live/cctv13_2/index.m3u8?contentid=2820180516001
 
 #EXTINF:-1,CINE SKY 2
@@ -87,10 +81,10 @@ http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
 http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
 
 #EXTINF:-1,CINE+
-http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8?
+http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8?FORMIGAtv
 
 #EXTINF:-1,CINE+
-http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8?FORMIGAtv
+http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8?
 
 #EXTINF:-1,CLASSIQUE TV
 http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8?FORMIGAtv
@@ -111,18 +105,18 @@ https://d338xh8x3vxa9e.cloudfront.net/out/v1/7d3c93fd8b74415d988bafbb9d515db3/in
 https://cdn.jmvstream.com/w/LVW-8403/LVW8403_bIBvekk9QA/chunklist.m3u8
 
 #EXTINF:-1,CULTURA
-http://str.portalcultura.com.br/funtelpa/tv_funtelpa/playlist.m3u8
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/chunklist_w1973272416.m3u8
 
 #EXTINF:-1,CULTURA
-http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1297393765.m3u8
+http://str.portalcultura.com.br/funtelpa/tv_funtelpa/playlist.m3u8
 
 #EXTINF:-1,CULTURA
 https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/chunklist_b2097152.m3u8
 
-#EXTINF:-1,CULTURA iptv sem travas TESTE GRATIS (46)99141-9357
-http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/chunklist_w1973272416.m3u8
+#EXTINF:-1,CULTURA
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1297393765.m3u8
 
-#EXTINF:-1,Cultura ParÃ¡
+#EXTINF:-1,Cultura Para
 http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
 
 #EXTINF:-1,Deutsche Welle
@@ -132,13 +126,13 @@ https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 https://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_360_av-p.m3u8?sd=10&amp;
 
 #EXTINF:-1,DISNEY Channel
-https://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8?sd=10&amp;
+https://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1,DISNEY Channel
 https://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_360_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1,DISNEY Channel
-https://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8?sd=10&rebase=on
+https://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8?sd=10&amp;
 
 #EXTINF:-1,Disney Junior
 https://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_360_av-p.m3u8?sd=10&amp;
@@ -146,8 +140,11 @@ https://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_360_av-p.m3u8?s
 #EXTINF:-1,DISNEY Junior
 https://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8?sd=10&amp;
 
-#EXTINF:-1,DISNEY Junior iptv sem travas TESTE GRATIS (46)99141-9357
+#EXTINF:-1,DISNEY Junior
 https://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Disney XD
+https://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1,Disney XD
 https://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8?sd=10&amp;
@@ -157,9 +154,6 @@ https://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_360_av-p.m3u8?s
 
 #EXTINF:-1,Disney XD
 https://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_360_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,Disney XD
-https://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1,DJing
 https://www.djing.com/tv/29054-03.m3u8
@@ -189,13 +183,13 @@ https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8
 https://playplusespn-lh.akamaihd.net:443/i/pp_espnbra@374460/index_360_av-p.m3u8?sd=10&amp;
 
 #EXTINF:-1,ESPN BRASIL
-https://playplusespn-lh.akamaihd.net:443/i/pp_espnbra@374460/index_720_av-p.m3u8?sd=10&rebase=on
+https://playplusespn-lh.akamaihd.net:443/i/pp_espnbra@374460/index_360_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1,ESPN BRASIL
 https://playplusespn-lh.akamaihd.net:443/i/pp_espnbra@374460/index_720_av-p.m3u8?sd=10&amp;
 
 #EXTINF:-1,ESPN BRASIL
-https://playplusespn-lh.akamaihd.net:443/i/pp_espnbra@374460/index_360_av-p.m3u8?sd=10&rebase=on
+https://playplusespn-lh.akamaihd.net:443/i/pp_espnbra@374460/index_720_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1,ESPN Extra
 https://playplusespn-lh.akamaihd.net:443/i/pp_espnext@374460/index_360_av-p.m3u8?sd=10&rebase=on
@@ -290,7 +284,7 @@ https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
 #EXTINF:-1,Otto Fm TV
 http://217.182.192.240:8080/hls/ottofmtv/index.m3u8
 
-#EXTINF:-1,ParanÃ¡ Turismo
+#EXTINF:-1,Parana Turismo
 http://200.189.113.201/hls/tve.m3u8
 
 #EXTINF:-1,PixTV
@@ -299,7 +293,7 @@ https://lyqibtcyiz.singularcdn.net.br/pix/pixtv_hi.m3u8
 #EXTINF:-1,RadioU
 https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,RAI Movie (ItÃ¡lia)
+#EXTINF:-1,RAI Movie (Italia)
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
 #EXTINF:-1,RAINEWS24
@@ -329,6 +323,9 @@ https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8
 #EXTINF:-1,RECORD Brasilia SD
 http://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_360_av-p.m3u8
 
+#EXTINF:-1,RECORD ES-VITORIA
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8?FORMIGAtv
+
 #EXTINF:-1,RECORD GOIAS HD
 https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-p.m3u8
 
@@ -342,10 +339,10 @@ https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8
 http://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_360_av-p.m3u8
 
 #EXTINF:-1,Record News
-https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_360_av-p.m3u8
 
 #EXTINF:-1,Record News
-https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_360_av-p.m3u8
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
 #EXTINF:-1,RECORD NEWS HD
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8
@@ -380,13 +377,13 @@ https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
 #EXTINF:-1,RecordTV Distrito Federal
 https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
 
-#EXTINF:-1,RecordTV GoiÃ¡s
+#EXTINF:-1,RecordTV Goias
 https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/master.m3u8
 
 #EXTINF:-1,RecordTV Manaus
 https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
 
-#EXTINF:-1,RecordTV ParÃ¡
+#EXTINF:-1,RecordTV Para
 https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8
 
 #EXTINF:-1,RecordTV Rio de Janeiro
@@ -398,22 +395,25 @@ https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/master.m3u8
 #EXTINF:-1,Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1,Rede AmÃ©rica
+#EXTINF:-1,Rede America
 https://mdstrm.com/live-stream-playlist/5daf001b15674d3b61e8f1bd.m3u8?uid=p3zuLtdsvOgJsETYH2XC32sOdD6a0Tqy&sid=b3lz0SO8qnPdEnpC1qujT0I553lbtB5K&pid=K7kR5xXygiNlpAWHpGYiVHbdbSPyA83W&an=screen&at=web-app&av=v5.1.8&ref=&res=1366x654&dnt=true
+
+#EXTINF:-1,REDE BRASIL
+http://rbc.directradios.com:1935/rbc/rbc_720p/live.m3u8?FORMIGAtv
 
 #EXTINF:-1,Rede Brasil - TV Marajoara (PA)
 http://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8
 
-#EXTINF:-1,Rede FamÃ­lia
+#EXTINF:-1,Rede Familia
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist.m3u8
 
 #EXTINF:-1,Rede Gospel
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 
-#EXTINF:-1,Rede MetrÃ³pole
+#EXTINF:-1,Rede Metropole
 http://177.130.81.30/hls/metropole.m3u8
 
-#EXTINF:-1,Rede SÃ©culo 21
+#EXTINF:-1,Rede Seculo 21
 https://d1gs793b1l6k9i.cloudfront.net/out/v1/a3aac39375df40a1a564635d7b41e90c/index.m3u8
 
 #EXTINF:-1,Rede Vida
@@ -425,22 +425,22 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.
 #EXTINF:-1,RedeTV!
 https://redetv01-lh.akamaihd.net/i/redetv01_1@1010585/index_360_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1,RetrÃ´ TV
-http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8
-
-#EXTINF:-1,Retrï¿½
+#EXTINF:-1,Retro
 http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8
 
 #EXTINF:-1,Retro Plus
 https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
+#EXTINF:-1,Retro TV
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8
+
 #EXTINF:-1,RT Documentary Channel
 https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
 
-#EXTINF:-1,RT en espaÃ±ol
+#EXTINF:-1,RT en espanol
 https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
 
-#EXTINF:-1,RTL (ItÃ¡lia)
+#EXTINF:-1,RTL (Italia)
 https://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/chunklist_b1196000.m3u8
 
 #EXTINF:-1,RTP Internacional
@@ -476,7 +476,7 @@ https://slbps-sambatech.akamaized.net/live/2472%2C5164%2C6c1f2e9d204aab6374f0bec
 #EXTINF:-1,Sexy KpopTV
 https://59f2354c05961.streamlock.net:1443/canaisforadoar/_definst_/canaisforadoar/chunklist.m3u8
 
-#EXTINF:-1,SIC TV  Local - Record RondÃ´nia
+#EXTINF:-1,SIC TV  Local - Record Rondonia
 https://582b8d3a8267b.streamlock.net/2502/2502/playlist.m3u8
 
 #EXTINF:-1,SOBRENATURAL TV
@@ -581,7 +581,7 @@ https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8
 #EXTINF:-1,TV Cultura
 https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/chunklist.m3u8
 
-#EXTINF:-1,TV DiÃ¡rio do SertÃ£o
+#EXTINF:-1,TV Diario do Sertao
 http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
 
 #EXTINF:-1,tv diario sertao
@@ -614,13 +614,13 @@ https://5d2c98775bafe.streamlock.net/8220/8220/chunklist.m3u8
 #EXTINF:-1,TV Jornal - Limeira SP
 http://flash1.crossdigital.com.br:1935/1998/1998/playlist.m3u8?ISAQUE
 
-#EXTINF:-1,TV JustiÃ§a
+#EXTINF:-1,TV Justica
 http://www.tvmpf.mpf.mp.br:1935/event1900/event1900.stream_720p/playlist.m3u8
 
 #EXTINF:-1,TV Liberdade - WebTV
 http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
 
-#EXTINF:-1,TV MaceiÃ³ (AL)
+#EXTINF:-1,TV Maceio (AL)
 https://59f1cbe63db89.streamlock.net:1443/toptv/toptv/playlist.m3u8
 
 #EXTINF:-1,TV Manchete - WebTV
@@ -635,7 +635,7 @@ http://video01.kshost.com.br/tv31966/tv31966/chunklist.m3u8
 #EXTINF:-1,TV MAX
 https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
 
-#EXTINF:-1,TV MetrÃ³pole
+#EXTINF:-1,TV Metropole
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 
 #EXTINF:-1,TV Mon
@@ -650,7 +650,7 @@ https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3
 #EXTINF:-1,TV Pampa - RedeTV! RS
 https://stmv1.srvstm.com/maiko7291/maiko7291/playlist.m3u8
 
-#EXTINF:-1,TV Santa CecÃ­lia (SP)
+#EXTINF:-1,TV Santa Cecilia (SP)
 http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
 
 #EXTINF:-1,TV Senado
@@ -659,19 +659,19 @@ http://www.tvmpf.mpf.mp.br:1935/event455/event455.stream_720p/playlist.m3u8
 #EXTINF:-1,TV Sjid (BA)
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
 
-#EXTINF:-1,TV TransamÃ©rica (PR)
+#EXTINF:-1,TV Transamerica (PR)
 http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/playlist.m3u8
 
-#EXTINF:-1,TV UniÃ£o (CE)
+#EXTINF:-1,TV Uniao (CE)
 https://stmv1.ifantasy.com.br/tvu/tvu/playlist.m3u8
 
-#EXTINF:-1,TV UniÃ£o (DF)
+#EXTINF:-1,TV Uniao (DF)
 https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
 
 #EXTINF:-1,TV Verdes Campos SAT
 https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
 
-#EXTINF:-1,TV VitÃ³ria Local - RecordTV (ES)
+#EXTINF:-1,TV Vitoria Local - RecordTV (ES)
 http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
 
 #EXTINF:-1,TV Zoom
